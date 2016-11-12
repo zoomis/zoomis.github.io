@@ -97,6 +97,13 @@ journals:
 
 
 conferences:
+ - authors: "Joon-Myung Kang, Jeongkeun Lee, Vasudevan Nagendra, and Sujata Banerjee"
+   title: "LMS: Label Management Service for Intent-driven Cloud Management"
+   event: "2017 IFIP/IEEE International Symposium on Integrated Network Management (IM 2017)"
+   where: "Lisbon, Portugal"
+   pages: ""
+   date: "May 8-11, 2017"
+   link: "#"
  - authors: "Brendan Tschaen, Ying Zhang, Theophilus Benson, Sujata Banerjee, Jeongkeun Lee, Joon-Myung Kang"
    title: "SFC-Checker: Checking the Correct Forwarding Behavior of Service Function Chaining"
    event: "2016 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
