@@ -22,6 +22,18 @@ summary:
     cvupdate: 2016.10
     citation: https://scholar.google.com/citations?hl=en&authuser=1&user=MmySswUAAAAJ
 
+education:
+  - name: POSTECH
+    degree: Ph.D. in Computer Science and Engineering
+    location: South Korea
+    dates: March 2005 ~ February 2011
+    link: http://www.postech.edu
+  - name: POSTECH
+    degree: B.Sc. in Computer Science and Engineering
+    location: South Korea
+    dates: March 1997 ~ February 2005
+    link: http://www.postech.edu
+
 career:
  - position: Foot Clan Antagonist
    company: TMNT inc.
@@ -76,10 +88,3 @@ sideProjects:
     link: http://pavelmakhov.com/number-writing-trainer/#/
     type: site
     langs: AngularJS/HTML/CSS/Bootstrap
-
-education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
