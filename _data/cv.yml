@@ -67,27 +67,31 @@ professionalActivities:
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "Network and System Management"
+    - tr: "Cloud Data Center Management"
+    - tr: "Software Defined Networking"
+    - tr: "Policy Management"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
+   - name: Java
+     level: 100
+   - name: Python
+     level: 100
+   - name: C
+     level: 80
+   - name: C++
      level: 80
   frontend:
-   - name: Cooking Skills
+   - name: Java Script
      level: 80
-   - name: Pranks
-     level: 90
+   - name: PHP
+     level: 80
+   - name: HTML/CSS
+     level: 80
   other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
-     level: 100
+   - name: OpenStack
+     level: 80
+   - name: Database
+     level: 80
 
 sideProjects:
   - name: jekyll-clean-dark
