@@ -52,6 +52,19 @@ career:
     - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
     - accomplishment: He has the normal ability of a turtle to go into his shell.
 
+professionalActivities:
+  list:
+    - tr: "Technical Program Committee Co-Chair of NetSoft 2016"
+    - tr: "Technical Program Committee of APNOMS 2013, APNOMS 2015, NetSoft 2016, APNOMS 2016"
+    - tr: "Guest reviewer, IEEE Transactions on Network and Service Managemet (TNSM)"
+    - tr: "Guest reviewer, International Journal of Network Management (IJNM)"
+    - tr: "Guest reviewer, Elsevier Computer Network"
+    - tr: "Guest reviewer, IEEE Communications Letter"
+    - tr: "Guest reviewer, Jounral of Communications and Networks"
+    - tr: "Guest reviewer, EURASIP Journal on Wireless Communications and Networking"
+    - tr: "Guest reviewer, British Journal of Applied Science & Technology"
+    - tr: "Local Chair of KNOM 2011"
+
 technicalSkills:
   list:
     - tr: "Impulsive, creative and very social"
