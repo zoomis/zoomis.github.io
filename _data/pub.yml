@@ -97,6 +97,13 @@ journals:
 
 
 conferences:
+ - authors: "Ying Zhang, Wenfei Wu, Sujata Banerjee, Joon-Myung Kang, and Mario Ant Sanchez"
+   title: "SLA-Verifier: Stateful and Quantitative Verification for Service Chaining"
+   event: "IEEE International Conference on Computer Communications (INFOCOM 2017)"
+   where: "Atlanta, GA, USA"
+   pages: ""
+   date: "May 1-4, 2017"
+   link: "#"
  - authors: "Joon-Myung Kang, Jeongkeun Lee, Vasudevan Nagendra, and Sujata Banerjee"
    title: "LMS: Label Management Service for Intent-driven Cloud Management"
    event: "2017 IFIP/IEEE International Symposium on Integrated Network Management (IM 2017)"

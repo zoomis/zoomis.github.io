@@ -113,6 +113,8 @@ technicalSkills:
      level: 80
   other:
    - name: OpenStack
-     level: 80
+     level: 90
+   - name: Network Management
+     level: 90 
    - name: Database
      level: 80
