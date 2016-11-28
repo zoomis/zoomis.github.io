@@ -46,12 +46,12 @@
   <div class="container">
       <div class="row header">
         <div class="col-xs-4">
-          <h1 class="name">{{ site.data.cv.person.name }}</h1>
+          <h2 class="name">{{ site.data.cv.person.name }}</h2>
           <span class="profesion">{{ site.data.cv.person.profesion }}</span>
         </div>
 
         <div class="col-md-5 text-center">
-        <img src="mikey.png" height="130px" width="130px">
+        <img src="images/jmkang_family.jpg" height="130px" width="130px">
         </div>
 
         <div class="col-xs-3">
@@ -190,29 +190,5 @@
         </div>
     </div>
 </body>
-
-    <div class="row  section">
-      <div class="col-xs-3"><h2>Side Projects</h2></div>
-      <div class="col-xs-9">
-        {% for item in site.data.cv.publications %}
-        <div class="row side-project">
-          <div class="col-xs-5">
-            <h4>
-            {% if item.type == 'github' %}
-                <i class="fa fa-github"></i>
-              {% elsif item.type == 'site' %}
-                <i class="fa fa-globe"></i>
-              {% endif %}
-              <a href="{{item.link}}">{{item.name}}</a>
-            </h4>
-
-            <h5>{{item.langs}}</h5>
-          </div>
-          <div class="col-xs-7">{{item.description}}</div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-
 
 </html>
