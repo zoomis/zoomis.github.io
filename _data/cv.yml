@@ -2,7 +2,7 @@ url: http://zoomis.github.io
 projectUrl: personal
 
 person:
-  name: Joon-Myung Kang
+  name: Joon Kang
   profesion: Research Engineer
   organization: Hewlett Packard Labs
   location: Palo Alto, CA
@@ -12,6 +12,13 @@ person:
   phone: --
   github: /zoomis
   launchpad: joon-myung-kang
+
+summary:
+    - name: Joon-Myung Kang
+    - description:
+        Joon-Myung is a Senior Research Engineer at Networking, IoT, and Mobility Lab, Hewlett Packard Labs in Palo Alto, CA, USA. His research interests include software defined networking, cloud computing, autonomic network management, and mobile device management. He received his BS.c. and Ph.D. degrees in Computer Science and Engineering from POSTECH in 2005 and 2011, respectively. Prior to joining to POSTECH, He was a software engineer at Alticast Corporation from 2000 to 2004. He was a Postdoctoral Fellow at the Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea from March 2011 to September 2011. He was also a Postdoctoral Fellow in the Department of Electrical and Computer Engineering, University of Toronto, ON, Canada, from September 2011 to November 2013.
+    - cv: CV_JMKang_201610.pdf
+    - citation: https://scholar.google.com/citations?hl=en&authuser=1&user=MmySswUAAAAJ
 
 career:
  - position: Foot Clan Antagonist
