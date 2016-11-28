@@ -2,33 +2,57 @@ url: http://zoomis.github.io
 projectUrl: personal
 
 person:
-  name: Michelangelo
-  profesion: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
+  name: Joon-Myung Kang
+  profesion: Research Engineer, Hewlett Packard Labs
+  location: Palo Alto, CA
+  citizenship: Republic of Korea
+  email: joonmyung.kang@gmail.com
+  site: http://zoomis.github.io
   phone: --
-  github: /streetturtle
-  stackoverflow: /streetturtle
+  github: /zoomis
+  launchpad: joon-myung-kang
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
+ - position: Senior Research Engineer
+   company: Hewlett Packard Labs
+   location: Palo Alto, CA, USA
+   dates: November 2013 - present
+   summary: Research on software-defined networking and cloud network management
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
+       - accomplishment: Policy Graph Abstraction (PGA) - Development of a frontend and backend for specifying network policies, composing, and enforcing using a graph model for OpenStack and SDN controller (Python, JavaScript, OpenStack)
+       - accomplishment: Cloud network controller - Development of a network controller for guaranteeing minimum and maximum bandwidth for multi-tenants (C++, Python, OpenStack)
+
+ - position: Postdoctoral Fellow
+   company: University of Toronto
+   location: Toronto, ON, Canada
+   dates: September 2011 - November 2013
+   summary: Research on software defined infrastructure and Smart Applications on Virtual Infrastructure (SAVI) testbed
    accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+       - accomplishment: Development of a cloud and network resource management system based on OpenStack and Ryu controller
+       - accomplishment: Development of cloud infrastructure resources (Java, Python, Graph Database)
+       - accomplishment: Development of management system for virtualized resources (Java, Web Services, SOAP)
+
+ - position: Postdoctoral Fellow
+   company: POSTECH
+   location: Pohang, South Korea
+   dates: March 2011 - September 2013
+   summary: Research on autonomic network management and mobile device management
+   accomplishments:
+       - accomplishment: Smart Applications on Virtual Infrastructure (SAVI) -
+           Development of a cloud and network resource management system based on OpenStack and Ryu controller
+       - accomplishment: Development of cloud infrastructure resources (Java, Python, Graph Database)
+       - accomplishment: Development of management system for virtualized resources (Java, Web Services, SOAP)
+
+- position: Software Engineer
+   company: Alticast Corporation
+   location: Seoul, South Korea
+   dates: January 2000 - January 2004
+   summary: Development of embedded middleware, web browser, testbed, and services for digital interactive TV STB
+   accomplishments:
+       - accomplishment: Full development for embedded middleware (JVM and library implementation) and web browser for XHTML/CSS (Java, Lex/Yacc) 
+       - accomplishment: Development of MHP application test software (Java, C, JNI)
+       - accomplishment: Resident application and services (Java, JNI, C)
+
 
 technicalSkills:
   list:
