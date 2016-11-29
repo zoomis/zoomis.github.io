@@ -6,6 +6,20 @@ talks:
    date: "September 2016"
    link: "https://www.youtube.com/watch?v=ywrh4J0UGms&list=PL8F5jrwEpGAiRCzJIyboA8Di3_TAjTT-2&index=80"
 
+ - authors: "Joon-Myung Kang, Sujata Banerjee, Jeongkeun Lee"
+   title: "Policy Canvas: Draw your policies for OpenStack services"
+   event: "OpenStack Summit 2016"
+   where: "Austin, TX"
+   date: "April 2016"
+   link: "https://www.openstack.org/summit/austin-2016/summit-schedule/events/7743"
+
+ - authors: "Yoshio Turner, Mario Sanchez, Joon-Myung Kang, Sujata Banerjee, Armando Migliaccio"
+   title: "Supporting Network Bandwidth Guarantees with OpenStack: an Implementation Perspective"
+   event: "OpenStack Summit 2015"
+   where: "Vancouver, BC, Canada"
+   date: "May 2015"
+   link: "https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/supporting-network-bandwidth-guarantees-with-openstack-an-implementation-perspective"
+
 journals:
  - authors: "Sin-seok Seo, Joon-Myung Kang, Alberto Leon-Garcia, Yoonseon Han, and James Won-Ki Hong"
    title: "User-centric Context Data Collection and Provision Harnessing Content-Centric Networking Paradigm"
@@ -15,6 +29,71 @@ journals:
    pages: "48-69"
    date: "2014"
    link: "http://onlinelibrary.wiley.com/doi/10.1002/nem.1851/abstract"
+
+ - authors: "Sungsu Kim, Joon-Myung Kang, Sin-seok Seo, and James Won-Ki Hong"
+   title: "A Cognitive Model based Approach for Autonomic Fault Management in OpenFlow Networks"
+   book: "International Journal of Network Management (IJNM) (SCIE)"
+   volume: 23
+   issue: 6
+   pages: "383-401"
+   date: "Nov./Dec. 2013"
+   link: "http://onlinelibrary.wiley.com/doi/10.1002/nem.1839/abstract"
+
+ - authors: "Taesang Choi , Tae-Ho Lee , Nodir Kodirov , Jaegi Lee , Doyeon Kim , Joon-Myung Kang , Sungsu Kim , John Strassner and James Won-Ki Hong"
+   title: "HiMang: Highly Manageable Network and Service Architecture for New Generation"
+   book: "Journal of Communications and Networks (JCN) (SCI)"
+   volume: 13
+   issue: 6
+   pages: "552-566"
+   date: "2011"
+   link: "http://jcn.or.kr/home/journal/journal.asp?journaluid=%7BF0261D88-23E1-4DF3-800B-8759B4BBAD76%7D&globalmenu=13"
+
+ - authors: "Joon-Myung Kang, Sin-seok Seo, and James Won-Ki Hong"
+   title: "Personalized Battery Lifetime Prediction for Mobile Devices based on Usage Patterns"
+   book: "Journal of Computing Science and Engineering (JCSE)"
+   volume: 5 
+   issue: 4
+   pages: "338-345"
+   date: "2011"
+   link: "http://jcse.kiise.org/PublishedPaper/topic_abstract.asp?idx=113"
+
+ - authors: "Joon-Myung Kang, John Strassner, Sin-seok Seo, James Won-Ki Hong"
+   title: "Autonomic Personalized Handover Decisions for Mobile Services in Heterogeneous Wireless Networks"
+   book: "Computer Networks"
+   volume: 55
+   issue: 7
+   pages: "1520-1532"
+   date: "May 15, 2011"
+   link: "http://www.sciencedirect.com/science/article/pii/S1389128611000442"
+
+ - authors: "Chang-Keun Park, Joon-Myung Kang, Mi-Jung Choi, James Won-Ki Hong, Yong-hun Lim, Seongho Ju, and Moon-suk Choi"
+   title: "Development and Testing of an SNMP-based Integrated Management System for Heterogeneous Power Line Communication Networks"
+   book: "International Journal of Network Management (IJNM), vol. 20, issue 1, pp. 35-55, Jan./Feb. 2010. (SCIE)"
+   volume: 20
+   issue: 1
+   pages: "35-55"
+   date: "Jan./Feb. 2010"
+   link: "http://onlinelibrary.wiley.com/doi/10.1002/nem.731/abstract"
+
+
+ - authors: "Joon-Myung Kang, Hong-Taek Ju, Mi-Jung Choi, James Won-Ki Hong, and Jun-Gu Kim"
+   title: "OMA DM-based Remote Software Fault Management for Mobile Devices"
+   book: "International Journal of Network Management (IJNM)"
+   volume: 19
+   issue: 6
+   pages: "491-511"
+   date: "Nov./Dec. 2009"
+   link: "http://onlinelibrary.wiley.com/doi/10.1002/nem.724/abstract"
+
+
+ - authors: "Jae-Jo Lee, Choong Seon Hong, Joon-Myung Kang, and James Won-Ki Hong"
+   title: "Power line communication network trial and management in Korea"
+   book: "International Journal of Network Management (IJNM)"
+   volume: 13
+   issue: 6
+   pages: "443-457"
+   date: "Nov./Dec. 2006"
+   link: "http://onlinelibrary.wiley.com/doi/10.1002/nem.632/abstract"
 
 
 conferences:
