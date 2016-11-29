@@ -1,0 +1,40 @@
+talks:
+ - authors: "Anu Mercian, Felipe Yrineu, Joon-Myung Kang, Raphael Amorim, Saket M. Mahajani, Mario Sanchez, and Sujata Banerjee"
+   title: "Network Intent Composition (NIC) Be Feature Update and Demo: Intent Compilation, Lifecycle Management and Automated Mapping"
+   event: "Open Daylight Summit 2016"
+   where: "Seattle, WA"
+   date: "September 2016"
+   link: "https://www.youtube.com/watch?v=ywrh4J0UGms&list=PL8F5jrwEpGAiRCzJIyboA8Di3_TAjTT-2&index=80"
+
+journals:
+    - authors: "Sin-seok Seo, Joon-Myung Kang, Alberto Leon-Garcia, Yoonseon Han, and James Won-Ki Hong"
+title: "User-centric Context Data Collection and Provision Harnessing Content-Centric Networking Paradigm"
+   book: "International Journal of Network Management (IJNM) (SCIE)"
+   volume: 24
+   issue: 1
+   pages: "48-69"
+   date: "2014"
+   link: "http://onlinelibrary.wiley.com/doi/10.1002/nem.1851/abstract"
+
+
+conferences:
+  - authors: "Brendan Tschaen, Ying Zhang, Theophilus Benson, Sujata Banerjee, Jeongkeun Lee, Joon-Myung Kang"
+title: "SFC-Checker: Checking the Correct Forwarding Behavior of Service Function Chaining"
+   event: "2016 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)"
+   where: "Palo Alto, CA"
+   pages:
+   date: "November 2016"
+   link:
+
+ - authors: "Joon-Myung Kang, Hadi Bannazadeh, Alberto Leon-Garcia"
+title: "SDIGraph: Graph-based Management for Converged Heterogeneous Resources in SDI"
+   event: "2nd IEEE Conference on Network Softwarization (NetSoft 2016)"
+   where: "Seoul, South Korea"
+   pages: "88-92"
+   date: "June 6-10, 2016"
+   link: "http://ieeexplore.ieee.org/document/7502450/"
+
+
+
+
+

@@ -116,16 +116,3 @@ technicalSkills:
      level: 80
    - name: Database
      level: 80
-
-sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
-    type: github
-    langs: HTML/CSS/Bootstrap
-
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap

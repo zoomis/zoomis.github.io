@@ -198,6 +198,46 @@
     </div>
 
 
+    <div class="row section pagebreakishere">
+      <div class="col-xs-3">
+        <h2>Publications</h2>
+      </div>
+        <div>
+          <h4><i class="fa fa-slideshare"></i>Talks for Open Source Community:</h4>
+        {% for item in site.data.pub.talks %}
+        <ol>
+            <li>{{item.authors}}, "<a href="{{item.link}}" target="_blank">{{item.title}}</a>," {{item.event}}, {{item.where}}, {{item.date}}</li>
+        </ol>
+        {% endfor %}
+
+        </div>
+ 
+        <div>
+          <h4><i class="fa fa-book"></i> International Journals:</h4>
+{% for item in site.data.pub.journals %}
+        <ol>
+            <li>{{item.authors}}, "<a href="{{item.link}}" target="_blank">{{item.title}}</a>," {{item.book}}, vol. {{item.volume}}, no. {{item.issue}}, pp. {{item.pages}}, {{item.date}</li>
+        </ol>
+        {% endfor %}
+        </div>
+ 
+        <div>
+          <h4><i class="fa fa-commenting"></i> International Conferences:</h4>
+{% for item in site.data.pub.conferences %}
+        <ol>
+            <li>{{item.authors}}, "<a href="{{item.link}}" target="_blank">{{item.title}}</a>," {{item.event}}, {{item.where}}, {{item.date}}, pp. {{item.pages}}</li>
+        </ol>
+        {% endfor %}
+        </div>
+ 
+ 
+        </div>
+      </div>
+    </div>
+
+
+
+
     <div class="row  section">
       <div class="col-xs-3"><h2>Side Projects</h2></div>
       <div class="col-xs-9">
