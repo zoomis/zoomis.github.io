@@ -1,5 +1,5 @@
 talks:
- - authors: "Anu Mercian, Felipe Yrineu, Joon-Myung Kang, Raphael Amorim, Saket M. Mahajani, Mario Sanchez, and Sujata Banerjee"
+ - authors: "Anu Mercian, Felipe Yrineu, <b>Joon-Myung Kang</b>, Raphael Amorim, Saket M. Mahajani, Mario Sanchez, and Sujata Banerjee"
    title: "Network Intent Composition (NIC) Be Feature Update and Demo: Intent Compilation, Lifecycle Management and Automated Mapping"
    event: "Open Daylight Summit 2016"
    where: "Seattle, WA"
