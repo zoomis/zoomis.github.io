@@ -98,7 +98,7 @@ journals:
 
 conferences:
  - authors: "Anubhavnidhi Abhashkumar, Jeongkeun Lee, Jean Tourrilhes, Sujata Banerjee, Joon-Myung Kang, Wenfei Wu, Aditya Akella"
-   title: "P3: Constructing Efficient Programmable Switch Pipeline using Policy Intents" 
+   title: "P5: Policy-driven optimization of P4 pipeline" 
    event: "The Symposium on SDN Research (SOSR 2017)"
    where: "Santa Clara, CA, USA"
    pages: ""
