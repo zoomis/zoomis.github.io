@@ -1,4 +1,11 @@
 talks:
+ - authors: "Mario A. Sanchez, Ying Zhang, Joon-Myung Kang"
+   title: "Dynamnic Network Fabric for NFV"
+   event: "OpenStack Summit 2017"
+   where: "Boston, MA"
+   date: "April 2017"
+   link: "https://www.openstack.org/summit/boston-2017/summit-schedule/events/18253/dynamic-network-fabric-for-nfv?BackURL=https%3A%2F%2Fwww.openstack.org%2Fsummit%2Fboston-2017%2Fsummit-schedule%2Fglobal-search%3Ft%3Dtoronto%23eventid%3D18253"
+
  - authors: "Anu Mercian, Felipe Yrineu, <b>Joon-Myung Kang</b>, Raphael Amorim, Saket M. Mahajani, Mario Sanchez, and Sujata Banerjee"
    title: "Network Intent Composition (NIC) Be Feature Update and Demo: Intent Compilation, Lifecycle Management and Automated Mapping"
    event: "Open Daylight Summit 2016"
