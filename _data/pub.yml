@@ -28,6 +28,15 @@ talks:
    link: "https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/supporting-network-bandwidth-guarantees-with-openstack-an-implementation-perspective"
 
 journals:
+ - authors: "Filip De Turck, Joon-Myung Kang, Hyunseung Choo, Myung-Sup Kim, Baek-Young Choi, Remi Badonnel and James Won-Ki Hong"
+   title: "Softwarization of networks, clouds, and internet of things"
+   book: "International Journal of Network Management (IJNM) (SCIE)"
+   volume: 27
+   issue: e1967
+   pages: ""
+   date: "2017"
+   link: "https://doi.org/10.1002/nem.1967"
+
  - authors: "Sin-seok Seo, Joon-Myung Kang, Alberto Leon-Garcia, Yoonseon Han, and James Won-Ki Hong"
    title: "User-centric Context Data Collection and Provision Harnessing Content-Centric Networking Paradigm"
    book: "International Journal of Network Management (IJNM) (SCIE)"
