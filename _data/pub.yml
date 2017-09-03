@@ -113,6 +113,13 @@ journals:
 
 
 conferences:
+ - authors: "Anubhavnidhi Abhashkumar, Joon-Myung Kang, Sujata Banerjee, Aditya Akella, Ying Zhang, Wenfei Wu"
+   title: "Supporting Supporting Diverse Dynamic Intent-based Policies using Janus" 
+   event: "13th International Conference on emerging Networking EXperiments and Technologies (CoNEXT '17)" 
+   where: "Seoul/Incheon, South Korea"
+   pages: ""
+   date: "December 12-15, 2017"
+   link: "#"
  - authors: "Anubhavnidhi Abhashkumar, Jeongkeun Lee, Jean Tourrilhes, Sujata Banerjee, Joon-Myung Kang, Wenfei Wu, Aditya Akella"
    title: "P5: Policy-driven optimization of P4 pipeline" 
    event: "The Symposium on SDN Research (SOSR 2017)"
