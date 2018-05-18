@@ -86,15 +86,17 @@ career:
 
 professionalActivities:
   list:
+    - tr: "Application/Experience Session Co-Chair of NOMS 2018"
     - tr: "Technical Program Committee Co-Chair of NetSoft 2016"
-    - tr: "Technical Program Committee of APNOMS 2013, APNOMS 2015, NetSoft 2016, APNOMS 2016"
-    - tr: "Guest reviewer, IEEE Transactions on Network and Service Managemet (TNSM)"
-    - tr: "Guest reviewer, International Journal of Network Management (IJNM)"
-    - tr: "Guest reviewer, Elsevier Computer Network"
-    - tr: "Guest reviewer, IEEE Communications Letter"
-    - tr: "Guest reviewer, Jounral of Communications and Networks"
-    - tr: "Guest reviewer, EURASIP Journal on Wireless Communications and Networking"
-    - tr: "Guest reviewer, British Journal of Applied Science & Technology"
+    - tr: "Technical Program Committee of APNOMS 2013, APNOMS 2015, NetSoft 2016, APNOMS 2016, NetSoft 2017, APNOMS 2017, NetSoft 2018, INFOCOM 2019"
+    - tr: "Associate Editor, International Journal of Network Management (IJNM)"
+    - tr: "Reviewer, IEEE Transactions on Network and Service Managemet (TNSM)"
+    - tr: "Reviewer, International Journal of Network Management (IJNM)"
+    - tr: "Reviewer, Elsevier Computer Network"
+    - tr: "Reviewer, IEEE Communications Letter"
+    - tr: "Reviewer, Jounral of Communications and Networks"
+    - tr: "Reviewer, EURASIP Journal on Wireless Communications and Networking"
+    - tr: "Reviewer, British Journal of Applied Science & Technology"
     - tr: "Local Chair of KNOM 2011"
 
 technicalSkills:
