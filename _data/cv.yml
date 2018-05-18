@@ -3,9 +3,9 @@ projectUrl: personal
 
 person:
   name: Joon Kang
-  profesion: Research Engineer
-  organization: Hewlett Packard Labs
-  location: Palo Alto, CA
+  profesion: Senior Staff Engineer
+  organization: Futurewei Technologies
+  location: Santa Clara, CA
   citizenship: Republic of Korea
   email: joonmyung.kang@gmail.com
   site: http://zoomis.github.io
@@ -35,12 +35,21 @@ education:
     link: http://www.postech.edu
 
 career:
- - position: Research Engineer
+ - position: Senior Staff Engineer
+   company: Futurewei Technologies
+   location: Santa Clara, CA, USA
+   dates: April 2018 - present
+   summary: Research on software-defined networking and network function virtualization
+   accomplishments:
+     - accomplishment: Overlay network controller
+
+- position: Research Engineer
    company: Hewlett Packard Labs
    location: Palo Alto, CA, USA
-   dates: November 2013 - present
+   dates: November 2013 - April 2018
    summary: Research on software-defined networking and cloud network management
    accomplishments:
+     - accomplishment: Intent-based Management - Development of a frontend and backend for specifying network intents and composition for Aruba controller
      - accomplishment: Policy Graph Abstraction (PGA) - Development of a frontend and backend for specifying network policies, composing, and enforcing using a graph model for OpenStack and SDN controller (Python, JavaScript, OpenStack)
      - accomplishment: Cloud network controller - Development of a network controller for guaranteeing minimum and maximum bandwidth for multi-tenants (C++, Python, OpenStack)
 
