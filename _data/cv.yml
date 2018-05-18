@@ -59,9 +59,9 @@ career:
    dates: September 2011 - November 2013
    summary: Research on software defined infrastructure and Smart Applications on Virtual Infrastructure (SAVI) testbed
    accomplishments:
-       - accomplishment: Development of a cloud and network resource management system based on OpenStack and Ryu controller
-       - accomplishment: Development of cloud infrastructure resources (Java, Python, Graph Database)
-       - accomplishment: Development of management system for virtualized resources (Java, Web Services, SOAP)
+     - accomplishment: Development of a cloud and network resource management system based on OpenStack and Ryu controller
+     - accomplishment: Development of cloud infrastructure resources (Java, Python, Graph Database)
+     - accomplishment: Development of management system for virtualized resources (Java, Web Services, SOAP)
 
  - position: Postdoctoral Fellow
    company: POSTECH
