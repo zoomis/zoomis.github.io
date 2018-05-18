@@ -41,8 +41,7 @@ career:
    dates: April 2018 - present
    summary: Research on software-defined networking and network function virtualization
    accomplishments:
-     - accomplishment: Policy Graph Abstraction (PGA) - Development of a frontend and backend for specifying network policies, composing, and enforcing using a graph model for OpenStack and SDN controller (Python, JavaScript, OpenStack)
-     - accomplishment: Cloud network controller - Development of a network controller for guaranteeing minimum and maximum bandwidth for multi-tenants (C++, Python, OpenStack)
+     - accomplishment: overlay network management
 
  - position: Research Engineer
    company: Hewlett Packard Labs
