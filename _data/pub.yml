@@ -209,9 +209,9 @@ conferences:
    title: "Analysis and Performance Evaluation of Data Transport Methods in Content-Centric Networking"
    event: "15th Asia-Pacific Network Operations and Management Symposium (APNOMS 2013)"
    where: "Hiroshima, Japan"
-   pages: ""
+   pages: "1-3"
    date: "September 25-27, 2013"
-   link: ""
+   link: "https://ieeexplore.ieee.org/document/6665232/"
 
  - authors: "Joon-Myung Kang, Hadi Bannazadeh, Hesam Rahimi, Thomas Lin, Mohammad Faraji, and Alberto Leon-Garcia"
    title: "Software-Defined Infrastructure and the Future Central Office"
@@ -219,7 +219,7 @@ conferences:
    where: "Budapest, Hungary"
    pages: "225-229"
    date: "June 9-13, 2013"
-   link: ""
+   link: "https://ieeexplore.ieee.org/document/6649233/"
 
  - authors: "Sin-seok Seo, Joon-Myung Kang, Alberto Leon-Garcia, Yoonseon Han, and James Won-Ki Hong"
    title: "Secure and Efficient Context Data Collection using Content-Centric Networking"
@@ -227,7 +227,7 @@ conferences:
    where: "Budapest, Hungary"
    pages: "1041-1045"
    date: "June 9-13, 2013"
-   link: ""
+   link: "https://ieeexplore.ieee.org/document/6649390/"
 
  - authors: "Joon-Myung Kang, Hadi Bannazadeh, and Alberto Leon-Garcia"
    title: "SAVI Testbed: Control and Management of Converged Virtual ICT Resources"
@@ -235,4 +235,12 @@ conferences:
    where: "Ghent, Belgium"
    pages: "664-667"
    date: "May 27-31, 2013"
-   link: ""
+   link: "https://ieeexplore.ieee.org/document/6573048/"
+
+ - authors: "Sungsu Kim, Sin-seok Seo, Joon-Myung Kang, Guy Pujolle, and James Won-Ki Hong"
+   title: "Autonomic Resource Allocation for Video Streaming Services in Content Delivery Networks"
+   event: "Global Information Infrastructure and Networking Symposium (GIIS 2012)"
+   where: "Chroni, Venezuela"
+   pages: "1-4"
+   date: "Dec 17-19, 2012"
+   link: "https://ieeexplore.ieee.org/document/6466771/"
