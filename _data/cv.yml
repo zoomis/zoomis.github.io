@@ -35,10 +35,19 @@ education:
     link: http://www.postech.edu
 
 career:
+ - position: Software Engineer
+   company: Barefoot Networks
+   location: Santa Clara, CA, USA
+   dates: January 2019 - present
+   summary: Research on Programmable Networks
+   accomplishments:
+     - accomplishment: Programmable Networks
+
+
  - position: Senior Staff Engineer
    company: Futurewei Technologies
    location: Santa Clara, CA, USA
-   dates: April 2018 - present
+   dates: April 2018 - January 2019
    summary: Research on software-defined networking and network function virtualization
    accomplishments:
      - accomplishment: overlay network management
