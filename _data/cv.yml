@@ -3,8 +3,8 @@ projectUrl: personal
 
 person:
   name: Joon Kang
-  profesion: Senior Staff Engineer
-  organization: Futurewei Technologies
+  profesion: Software Engineer
+  organization: Barefoot Networks
   location: Santa Clara, CA
   citizenship: Republic of Korea
   email: joonmyung.kang@gmail.com
@@ -17,7 +17,7 @@ person:
 
 summary:
     name: Joon-Myung Kang
-    description: Joon-Myung is a Senior Staff Engineer at Futurewei Technologies in Santa Clara, CA, USA. His research interests include software defined networking, cloud computing, autonomic network management, and mobile device management. He received his BS.c. and Ph.D. degrees in Computer Science and Engineering from POSTECH in 2005 and 2011, respectively. Prior to joining to POSTECH, He was a software engineer at Alticast Corporation from 2000 to 2004. He was a Postdoctoral Fellow at the Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea from March 2011 to September 2011. He was also a Postdoctoral Fellow in the Department of Electrical and Computer Engineering, University of Toronto, ON, Canada, from September 2011 to November 2013. From November 2013 to April 2018, he was a Senior Research Engineer at Hewlett Packard Labs in Palo Alto, CA, USA.
+    description: Joon-Myung is a Software Engineer at Barefoot Networks in Santa Clara, CA, USA. His research interests include software defined networking, cloud computing, autonomic network management, and mobile device management. He received his BS.c. and Ph.D. degrees in Computer Science and Engineering from POSTECH in 2005 and 2011, respectively. Prior to joining to POSTECH, He was a software engineer at Alticast Corporation from 2000 to 2004. He was a Postdoctoral Fellow at the Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea from March 2011 to September 2011. He was also a Postdoctoral Fellow in the Department of Electrical and Computer Engineering, University of Toronto, ON, Canada, from September 2011 to November 2013. From November 2013 to April 2018, he was a Senior Research Engineer at Hewlett Packard Labs in Palo Alto, CA, USA. From April 2018 to January 2019, he was a Senior Staff Engineer at Futurewei Technologies, Santa Clara, CA.
     cv: CV_JMKang.pdf
     cvupdate: 2016.10
     citation: https://scholar.google.com/citations?hl=en&authuser=1&user=MmySswUAAAAJ
