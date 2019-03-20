@@ -3,7 +3,7 @@ projectUrl: personal
 
 person:
   name: Joon Kang
-  profesion: Software Engineer
+  profesion: Senior Staff Engineer - Advanced Applications
   organization: Barefoot Networks
   location: Santa Clara, CA
   citizenship: Republic of Korea
@@ -35,11 +35,11 @@ education:
     link: http://www.postech.edu
 
 career:
- - position: Software Engineer
+ - position: Senior Staff Engineer
    company: Barefoot Networks
    location: Santa Clara, CA, USA
    dates: January 2019 - present
-   summary: Research on Programmable Networks
+   summary: Software development for advanced application
    accomplishments:
      - accomplishment: Programmable Networks
 
