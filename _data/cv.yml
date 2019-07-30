@@ -4,7 +4,7 @@ projectUrl: personal
 person:
   name: Joon Kang
   profesion: Senior Staff Engineer - Advanced Applications
-  organization: Barefoot Networks
+  organization: Barefoot Networks, An Intel® Company
   location: Santa Clara, CA
   citizenship: Republic of Korea
   email: joonmyung.kang@gmail.com
@@ -36,7 +36,7 @@ education:
 
 career:
  - position: Senior Staff Engineer
-   company: Barefoot Networks
+   company: Barefoot Networks, Intel® Company
    location: Santa Clara, CA, USA
    dates: January 2019 - present
    summary: Software development for advanced application
