@@ -35,10 +35,19 @@ education:
     link: http://www.postech.edu
 
 career:
+ - position: Software Engineer
+   company: Google
+   location: Sunnyvale, CA, USA
+   dates: November 2019 - present
+   summary: Gcloud applicaitons
+   accomplishments:
+     - accomplishment: applications
+
+
  - position: Senior Staff Engineer
    company: Barefoot Networks, Intel® Company
    location: Santa Clara, CA, USA
-   dates: January 2019 - present
+   dates: January 2019 - November 2019
    summary: Software development for advanced application
    accomplishments:
      - accomplishment: Programmable Networks
