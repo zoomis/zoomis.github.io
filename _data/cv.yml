@@ -129,6 +129,8 @@ technicalSkills:
      level: 100
    - name: Python
      level: 100
+   - name: Go
+     level: 80
    - name: C
      level: 80
    - name: C++
