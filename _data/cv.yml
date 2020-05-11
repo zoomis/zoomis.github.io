@@ -104,7 +104,7 @@ career:
 
 professionalActivities:
   list:
-    - tr: "IEEE Senior Member"
+    - tr: "IEEE Senior Member since August 2018"
     - tr: "Guest Editor, IEEE Transactions on Network and Service Managemet (TNSM) - Speical Issue, 2020"
     - tr: "Application/Experience Session Co-Chair of NOMS 2018"
     - tr: "Technical Program Committee Co-Chair of NetSoft 2016"
@@ -131,7 +131,7 @@ technicalSkills:
    - name: Python
      level: 100
    - name: Go
-     level: 80
+     level: 90
    - name: C
      level: 80
    - name: C++
