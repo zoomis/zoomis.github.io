@@ -239,6 +239,15 @@
         </ol>
         </div>
  
+        <div>
+          <h4><i class="far fa-lightbulb"></i> Patents:</h4>
+        <ol>
+{% for item in site.data.pub.patents %}
+            <li>{{item.authors}}, "{{item.title}}," {{item.number}}, {{item.country}}, {{item.date}} ({{item.assignee}})</li>
+        {% endfor %}
+        </ol>
+        </div>
+ 
       </div>
     </div>
 
