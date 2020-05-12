@@ -5,7 +5,7 @@ person:
   name: Joon Kang
   profesion: Software Engineer
   organization: Google Inc.
-  location: Sunnyvale, CA
+  location: Mountain View, CA
   citizenship: Republic of Korea
   email: joonmyung.kang@gmail.com
   site: http://zoomis.github.io
@@ -17,7 +17,7 @@ person:
 
 summary:
     name: Joon-Myung Kang
-    description: Joon-Myung is a Software Engineer at Google Inc., Sunnyvale, CA, USA. His research interests include software defined networking, cloud computing, autonomic network management, and mobile device management. He received his BS.c. and Ph.D. degrees in Computer Science and Engineering from POSTECH in 2005 and 2011, respectively. Prior to joining to POSTECH, He was a software engineer at Alticast Corporation from 2000 to 2004. He was a Postdoctoral Fellow at the Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea from March 2011 to September 2011. He was also a Postdoctoral Fellow in the Department of Electrical and Computer Engineering, University of Toronto, ON, Canada, from September 2011 to November 2013. From November 2013 to April 2018, he was a Senior Research Engineer at Hewlett Packard Labs in Palo Alto, CA, USA. From April 2018 to January 2019, he was a Senior Staff Engineer at Futurewei Technologies, Santa Clara, CA. From January 2019 to November 2019, he was a Senior Staff Engineer at Barefoot Networks, an Intel® Company, in Santa Clara, CA, USA. 
+    description: Joon is a Software Engineer at Google Inc., Mountain View, CA, USA. His research interests include software defined networking, cloud computing, autonomic network management, and mobile device management. He received his BS.c. and Ph.D. degrees in Computer Science and Engineering from POSTECH in 2005 and 2011, respectively. Prior to joining to POSTECH, He was a software engineer at Alticast Corporation from 2000 to 2004. He was a Postdoctoral Fellow at the Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea from March 2011 to September 2011. He was also a Postdoctoral Fellow in the Department of Electrical and Computer Engineering, University of Toronto, ON, Canada, from September 2011 to November 2013. From November 2013 to April 2018, he was a Senior Research Engineer at Hewlett Packard Labs in Palo Alto, CA, USA. From April 2018 to January 2019, he was a Senior Staff Engineer at Futurewei Technologies, Santa Clara, CA. From January 2019 to November 2019, he was a Senior Staff Engineer at Barefoot Networks, an Intel® Company, in Santa Clara, CA, USA. 
     cv: CV_JMKang.pdf
     cvupdate: 2016.10
     citation: https://scholar.google.com/citations?hl=en&authuser=1&user=MmySswUAAAAJ
@@ -37,11 +37,11 @@ education:
 career:
  - position: Software Engineer
    company: Google
-   location: Sunnyvale, CA, USA
+   location: Mountain View, CA, USA
    dates: November 2019 - present
-   summary: Gcloud applicaitons
+   summary: GSuite applicaitons
    accomplishments:
-     - accomplishment: applications
+     - accomplishment: GSuite applications
 
 
  - position: Senior Staff Engineer
@@ -50,7 +50,7 @@ career:
    dates: January 2019 - November 2019
    summary: Software development for advanced application
    accomplishments:
-     - accomplishment: Programmable Networks
+     - accomplishment: Advanced applications for programmable networks
 
 
  - position: Senior Staff Engineer
@@ -59,7 +59,7 @@ career:
    dates: April 2018 - January 2019
    summary: Research on software-defined networking and network function virtualization
    accomplishments:
-     - accomplishment: overlay network management
+     - accomplishment: Overlay network management
 
  - position: Research Engineer
    company: Hewlett Packard Labs
@@ -105,6 +105,7 @@ career:
 professionalActivities:
   list:
     - tr: "IEEE Senior Member since August 2018"
+    - tr: "Technical Program Committee Co-Chair of IM 2021"
     - tr: "Guest Editor, IEEE Transactions on Network and Service Managemet (TNSM) - Speical Issue, 2020"
     - tr: "Application/Experience Session Co-Chair of NOMS 2018"
     - tr: "Technical Program Committee Co-Chair of NetSoft 2016"

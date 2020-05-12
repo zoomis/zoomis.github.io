@@ -244,3 +244,19 @@ conferences:
    pages: "1-4"
    date: "Dec 17-19, 2012"
    link: "https://ieeexplore.ieee.org/document/6466771/"
+
+ - authors: "Sin-seok Seo, Joon-Myung Kang, Yoonseon Han, and James Won-Ki Hong"
+   title: "Context Management for User-centric Context-aware Services over Pervasive Networks"
+   event: "14th Asia-Pacific Network Operations and Management Symposium (APNOMS 2012)"
+   where: "Seoul, Korea"
+   pages: "1041-1045"
+   date: "Sep. 25-27, 2012"
+   link: "https://ieeexplore.ieee.org/document/6356050"
+
+demos:
+ - authors: "Jeongkeun Lee, Joon-Myung Kang, Chaithan Prakash, Sujata Banerjee, Yoshio Turner, Aditya Akella, Charles Clark, Yadi Ma, Puneet Sharma, Ying Zhang"
+   title: "Network Policy Whiteboarding and Composition"
+   event: "ACM SIGCOMM 2015"
+   where: "London, UK"
+   date: "August 2015"
+   link: "http://www.sigcomm.org/node/3836"
