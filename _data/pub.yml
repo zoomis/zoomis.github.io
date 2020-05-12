@@ -385,9 +385,26 @@ demos:
    link: "http://www.sigcomm.org/node/3836"
 
 patents:
-  - authors: "Joon Myung Kang, Huazhe WANG, Puneet Sharma"
+  - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
+    title: "Verifying network intents"
+    number: "CN110098950A"
+    country: "China"
+    date: "2019-08-06"
+    assignee: "Hewlett Packard Enterprise Development LP"
+    link: "https://patents.google.com/patent/CN110098950A/en"
+
+  - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
+    title: "Verifying network intents"
+    number: "EP3522452A1"
+    country: "EP"
+    date: "2019-08-07"
+    assignee: "Hewlett Packard Enterprise Development LP"
+    link: "https://patents.google.com/patent/EP3522452A1/en"
+
+  - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
     title: "Verifying network intents"
     number: "US20190238410A1"
     country: "USA"
     date: "2019-08-01"
     assignee: "Hewlett Packard Enterprise Development LP"
+    link: "https://patents.google.com/patent/US20190238410A1/en"

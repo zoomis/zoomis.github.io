@@ -243,7 +243,7 @@
           <h4><i class="fa fa-venus"></i> Patents:</h4>
         <ol>
 {% for item in site.data.pub.patents %}
-            <li>{{item.authors}}, "{{item.title}}," {{item.number}}, {{item.country}}, {{item.date}} ({{item.assignee}})</li>
+            <li>{{item.authors}}, "<a href="{{item.link}}" target="_blank">{{item.title}}</a>," {{item.number}}, {{item.country}}, {{item.date}} ({{item.assignee}})</li>
         {% endfor %}
         </ol>
         </div>
