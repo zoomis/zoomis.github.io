@@ -409,14 +409,6 @@ patents:
     assignee: "Hewlett Packard Enterprise Development LP"
     link: "https://patents.google.com/patent/US20190238410A1/en"
 
-  - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
-    title: "Verifying network intents"
-    number: "US20190238410A1"
-    country: "USA"
-    date: "2019-08-01"
-    assignee: "Hewlett Packard Enterprise Development LP"
-    link: "https://patents.google.com/patent/US20190238410A1/en"
-
   - authors: "Joon Myung Kang, Anubhavnidhi Abhashkumar, Sujata Banerjee, Ying Zhang, Wenfei Wu"
     title: "Generating composite network policy"
     number: "US20180316576A1"
