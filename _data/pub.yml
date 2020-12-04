@@ -411,11 +411,11 @@ patents:
 
   - authors: "Joon Myung Kang, Anubhavnidhi Abhashkumar, Sujata Banerjee, Ying Zhang, Wenfei Wu"
     title: "Generating composite network policy"
-    number: "US20180316576A1"
+    number: "US10812342B2 (Granted)"
     country: "USA"
-    date: "2018-11-01"
+    date: "2020-10-20"
     assignee: "Hewlett Packard Enterprise Development LP"
-    link: "https://patents.google.com/patent/US20180316576A1/en"
+    link: "https://patents.google.com/patent/US10812342B2/en"
 
   - authors: "Joon Myung Kang, Kshiteej S. Mahajan, Sujata Banerjee"
     title: "Inferring a label namespace"
