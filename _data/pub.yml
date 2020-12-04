@@ -386,6 +386,14 @@ demos:
 
 patents:
   - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
+    title: "Encoding and verifying network intents for stateful networks"
+    number: "US10771342B2 (Granted)"
+    country: "US"
+    date: "2020-09-08"
+    assignee: "Hewlett Packard Enterprise Development LP"
+    link: "https://patents.google.com/patent/US10771342B2/en"
+ 
+  - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
     title: "Verifying network intents"
     number: "CN110098950A"
     country: "China"
