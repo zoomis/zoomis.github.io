@@ -385,7 +385,15 @@ demos:
    link: "http://www.sigcomm.org/node/3836"
 
 patents:
-  - authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
+- authors: "Jeongkeun Lee, Georgios Nikolaidis, Andre LAM, Remy Chang, Joon-Myung Kang, Ashkan Nikravesh, Ramkumar Krishnamoorthy, Alain Loge"
+    title: "Network testing using a programmable packet engine"
+    number: "US201962826873P"
+    country: "US"
+    date: "2020-10-01"
+    assignee: "Barefoot Networks Inc"
+    link: "https://patents.google.com/patent/US20200313999A1/en"
+
+- authors: "Joon Myung Kang, Huazhe Wang, Puneet Sharma"
     title: "Encoding and verifying network intents for stateful networks"
     number: "US10771342B2 (Granted)"
     country: "US"
