@@ -28,6 +28,15 @@ talks:
    link: "https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/supporting-network-bandwidth-guarantees-with-openstack-an-implementation-perspective"
 
 journals:
+ - authors: "Wolfgang Kellerer, Giovanni Schembra, Jinho Hwang, Noriaki Kamiyama, Joon-Myung Kang, Barbara Martini, Rafael Pasquini, Dimitrios Pezaros, Hongke Zhang, Mohamed Faten Zhani, Thomas Zinner"
+   title: "Special Issue on Advanced Management of Softwarized Networks"
+   book: "IEEE Transactions on Network and Service Management (TNSM)"
+   volume: 18
+   issue: 1
+   pages: "20-29"
+   date: "March 2021"
+   link: "https://ieeexplore.ieee.org/document/9374861"
+    
  - authors: "Filip De Turck, Joon-Myung Kang, Hyunseung Choo, Myung-Sup Kim, Baek-Young Choi, Remi Badonnel and James Won-Ki Hong"
    title: "Softwarization of networks, clouds, and internet of things"
    book: "International Journal of Network Management (IJNM) (SCIE)"
