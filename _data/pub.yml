@@ -122,14 +122,14 @@ journals:
 
 
 conferences:
-- authors: "Huazhe Wang, Puneet Sharma, Faraz Ahmed, Joon-Myung Kang, Chen Qian, Mihalis Yannakakis"
+ - authors: "Huazhe Wang, Puneet Sharma, Faraz Ahmed, Joon-Myung Kang, Chen Qian, Mihalis Yannakakis"
    title: "Epinoia: Intent Checker for Stateful Networks" 
    event: "The 30th International Conference on Computer Communications and Networks (ICCCN 2021)" 
    where: "Athens, Greece"
    pages: ".."
    date: "July 19-22, 2021"
    link: "#"
-- authors: "Anubhavnidhi Abhashkumar, Joon-Myung Kang, Sujata Banerjee, Aditya Akella, Ying Zhang, Wenfei Wu"
+ - authors: "Anubhavnidhi Abhashkumar, Joon-Myung Kang, Sujata Banerjee, Aditya Akella, Ying Zhang, Wenfei Wu"
    title: "Supporting Supporting Diverse Dynamic Intent-based Policies using Janus" 
    event: "13th International Conference on emerging Networking EXperiments and Technologies (CoNEXT '17)" 
    where: "Seoul/Incheon, South Korea"
