@@ -39,9 +39,10 @@ career:
    company: Google
    location: Mountain View, CA, USA
    dates: November 2019 - present
-   summary: GSuite applicaitons
+   summary: NetInfra
    accomplishments:
-     - accomplishment: Supporting reliability and scalability for large-scale GSuite applications
+     - accomplishment: Network-aware scheduling
+     - accomplishment: Supporting reliability and scalability for large-scale GSuite applications (Google Apps Release)
 
 
  - position: Senior Staff Engineer
