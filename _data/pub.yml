@@ -28,7 +28,16 @@ talks:
    link: "https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/supporting-network-bandwidth-guarantees-with-openstack-an-implementation-perspective"
 
 journals:
- - authors: "Wolfgang Kellerer, Giovanni Schembra, Jinho Hwang, Noriaki Kamiyama, Joon-Myung Kang, Barbara Martini, Rafael Pasquini, Dimitrios Pezaros, Hongke Zhang, Mohamed Faten Zhani, Thomas Zinner"
+ - authors: "Arun Raghuramu, Lianjie Cao, Puneet Sharma, Mario Sanchez, Joon-Myung Kang, Chen-Nee Chuah, David Lee, Vinay Saxena"
+   title: "Metered Boot: Trusted Framework for Application Usage Rights Management in Virtualized Ecosystems"
+   book: "IEEE Transactions on Network and Service Management (TNSM)"
+   volume: 
+   issue: 
+   pages: ""
+   date: "Accepted to be appear (2022)"
+   link: ""
+
+- authors: "Wolfgang Kellerer, Giovanni Schembra, Jinho Hwang, Noriaki Kamiyama, Joon-Myung Kang, Barbara Martini, Rafael Pasquini, Dimitrios Pezaros, Hongke Zhang, Mohamed Faten Zhani, Thomas Zinner"
    title: "Special Issue on Advanced Management of Softwarized Networks"
    book: "IEEE Transactions on Network and Service Management (TNSM)"
    volume: 18
